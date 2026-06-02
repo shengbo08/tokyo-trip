@@ -1,6 +1,6 @@
 {
-  "name": "富國島 6 日旅行",
-  "short_name": "富國島",
+  "name": "東京 7 天 6 夜自由行",
+  "short_name": "東京自由行",
   "icons": [
     {
       "src": "apple-touch-icon.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#169196",
+  "theme_color": "#0f766e",
   "background_color": "#f6f3ee",
   "display": "standalone"
 }
